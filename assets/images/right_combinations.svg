@@ -1,0 +1,14 @@
+<svg id="Right_Combinations" data-name="Right Combinations" xmlns="http://www.w3.org/2000/svg" width="89" height="44" viewBox="0 0 89 44">
+  <rect id="Bars_Navigation_Bar_Right_Combinations_background" data-name="Bars/Navigation Bar/Right Combinations background" width="89" height="44" fill="none"/>
+  <g id="Right_Icon" data-name="Right Icon" transform="translate(50 8)">
+    <rect id="Glyphs_Toolbar_Calender_background" data-name="Glyphs/Toolbar/Calender background" width="28" height="28" fill="none"/>
+    <g id="Calendar_Icon" data-name="Calendar Icon" transform="translate(5 5)">
+      <path id="Stroke_1" data-name="Stroke 1" d="M14.87,15.652H2.348A2.355,2.355,0,0,1,0,13.3V2.348A2.355,2.355,0,0,1,2.348,0H14.87a2.355,2.355,0,0,1,2.348,2.348V13.3a2.355,2.355,0,0,1-2.348,2.348Z" transform="translate(0.391 1.174)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M0,0H17.217" transform="translate(0.391 5.087)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M0,0V1.565" transform="translate(4.304 0.391)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M0,0V1.565" transform="translate(13.696 0.391)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_9" data-name="Stroke 9" d="M0,0H5.478" transform="translate(5.087 12.522)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_11" data-name="Stroke 11" d="M0,0H7.826" transform="translate(5.087 9.391)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

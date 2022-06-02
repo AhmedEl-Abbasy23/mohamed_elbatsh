@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.203" height="26.621" viewBox="0 0 29.203 26.621">
+  <g id="cutlery" transform="translate(1.061 1.061)">
+    <path id="Shape" d="M5.158,0l6.369,6.369a1.934,1.934,0,0,1,0,2.735L9.1,11.527a1.934,1.934,0,0,1-2.735,0L0,5.158" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Shape-2" data-name="Shape" d="M0,0,5.158,5.158" transform="translate(2.579 2.579)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Shape-3" data-name="Shape" d="M0,0,4.513,4.513" transform="translate(19.987 19.987)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Shape-4" data-name="Shape" d="M0,0,3.224,3.224" transform="translate(10.316 10.316)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Shape-5" data-name="Shape" d="M0,23.211,23.211,0h0a5.471,5.471,0,0,1,0,7.737L12.25,18.7,8.382,14.829" transform="translate(2.579 1.289)" fill="none" stroke="#df4c3b" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>
